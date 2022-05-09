@@ -1,8 +1,7 @@
 body{
     background-color: #EFFFFD;
     font-family: 'Times New Roman', Times, serif;
-    font-style: italic;
-    
+    font-style: italic; 
 }
 .contenedor{
   width: 100%;
@@ -67,4 +66,3 @@ li.skils{
 #button{
   padding: 25%;
 }
-
