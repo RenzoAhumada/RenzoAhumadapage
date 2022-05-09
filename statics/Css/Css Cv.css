@@ -11,6 +11,9 @@ body{
 #nav-bar{
  background-color:#B8FFF9;
  color: #0E185F;
+ outline: none;
+ border-radius: 0%;
+ border-color: #B8FFF9;
 }
 .header-img-title{
   padding-top: 5%;
