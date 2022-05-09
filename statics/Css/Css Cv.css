@@ -8,100 +8,63 @@ body{
   width: 100%;
   margin: 0 auto;
 }
-#nav-bar{
- background-color:#B8FFF9;
- color: #0E185F;
- outline: none;
- border-radius: 0%;
- border-color: #B8FFF9;
-}
-.header-img-title{
-  padding-top: 5%;
-  align-items: center;
-  text-align: center;
-}
-
-.header-center{
-  align-items: center;
-  text-align: center;
-  padding: 5%;
-  background-color: #EFFFFD;
-  padding-right: 5% ;
-  padding-left: 5%;
-  max-width: 100%;
-  align-items: center;
-}
-.header-inner{
-  max-width: 70%;
-  padding-left: 10%;
-  padding-right: 5%;
-  display: block;
-  flex: row wrap;
-  text-align: center;
-  align-items: center;
-
-}
 .header{
+width: 100%;
+height: 50%;
+padding-right: 15%;
+}
+.inner-header{
+padding-left: 35%;
+padding-top: 5%;
+padding-right: 15%;
+text-align: center;
+}
+.h1-header{
+  font-size: 600%;
+}
+.text{
+  font-size: 150%;
   text-align: center;
-  padding-left: 45%;
-  color: #0E185F;
 }
-.img-center{
-  padding-left: 50%;
-  padding-right: 50%;
+.img{
+  text-align: center;
+  border-top-left-radius: 50% 50%;
+  border-top-right-radius: 50% 50%;
+  border-bottom-right-radius: 50% 50%;
+  border-bottom-left-radius: 50% 50%;
+  border-radius: 50%;
+}
+.img-logos{
+  text-align: center;
+  padding: 1.5%;
+  max-width: 85%;
+  max-height: 85%;
+  border-top-left-radius: 50% 50%;
+  border-top-right-radius: 50% 50%;
+  border-bottom-right-radius: 50% 50%;
+  border-bottom-left-radius: 50% 50%;
+  border-radius: 50%;
+}
 
-}
 ul{
-  display: block;
-  color: #0E185F;
-}
-.li-inner{
-  padding-left: 45%;
-  justify-self: unset;
-  align-items: center;
-  display: block;
-}
-#carouselExampleCaptions{
-  max-width: 100%;
-}
-.mb-3{
-  width: 100%;
-}
-form{
-  align-items: center;
-}
-.contend-inner{
-  padding-bottom: 5%;
-}
-.grid-conteiner{
-  text-align: center;
-  padding-top: 10%;
-  padding-right: 2.25rem;
-  padding-left: 2.25rem;
-  max-width: 70rem;
-  margin: 0 auto;
-
-}
-.grid-inner-text-center{
-  margin-right: -0.9375rem;
-  margin-left: -0.9375rem;
-  display: flex;
-  flex-flow: row wrap;
+  list-style-type: initial;
   text-align: center;
 }
-.fotter-page{
+li{
+  text-align: center;
   display: flex;
-  text-align: right;
-
+  float: left;
+  text-align: center;
+  list-style: none;
 }
-img{
-  width: 150px;
-  padding: 25px;
+.skills{
+  padding: 10%;
 }
-#button-color{
-  color: #B8FFF9;
-  border-color: #B8FFF9;
-  scrollbar-color: #0E185F;
-  background-color: #0E185F;
+li.skils{
+  display: none;
+  padding-inline-end: 10%;
+}
+#button{
+  padding: 25%;
 }
 
