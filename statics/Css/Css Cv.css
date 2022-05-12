@@ -1,7 +1,8 @@
 body{
-    background-color: #EFFFFD;
+    background-color: #363333;
     font-family: 'Times New Roman', Times, serif;
     font-style: italic; 
+    
 }
 .contenedor{
   width: 100%;
@@ -19,10 +20,12 @@ padding-right: 15%;
 text-align: center;
 }
 .h1-header{
-  font-size: 600%;
+  font-size: 300%;
+  color: #FEE440;
 }
 .text{
   font-size: 150%;
+  color: #F6E9E9;
   text-align: center;
 }
 .img{
@@ -65,4 +68,7 @@ li.skils{
 }
 #button{
   padding: 25%;
+}
+#cv{
+  color: #F6E9E9;
 }
