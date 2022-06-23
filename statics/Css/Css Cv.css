@@ -3,6 +3,7 @@ body {
   font-style: Helvetica;
   margin: 0px;
   padding: 0px;
+  text-align: justify;
 
 }
 @media (max-width: 1920px){
@@ -12,26 +13,26 @@ body {
     height: 50%;
     padding-right: 15%;
     align-items: center;
-    text-align: center;
   }
 
   .inner-header {
     padding-left: 35%;
     padding-top: 5%;
     padding-right: 15%;
-    text-align: center;
+
   }
 
   .h1-header {
     font-size: 250%;
     color: #FEE440;
     text-align: center;
+
   }
 
   .text {
     font-size: 150%;
     color: #F6E9E9;
-    text-align: center;
+  
   }
   .img-inner{
     text-align: center;
@@ -68,7 +69,7 @@ body {
     text-align: center;
     display: flex;
     float: left;
-    text-align: center;
+  
     list-style: none;
   }
 
@@ -97,26 +98,26 @@ body {
     height: 50%;
     padding-right: 15%;
     align-items: center;
-    text-align: center;
   }
 
   .inner-header {
     padding-left: 35%;
     padding-top: 5%;
     padding-right: 15%;
-    text-align: center;
+
   }
 
   .h1-header {
     font-size: 250%;
     color: #FEE440;
     text-align: center;
+
   }
 
   .text {
     font-size: 150%;
     color: #F6E9E9;
-    text-align: center;
+  
   }
   .img-inner{
     text-align: center;
@@ -153,7 +154,7 @@ body {
     text-align: center;
     display: flex;
     float: left;
-    text-align: center;
+  
     list-style: none;
   }
 
@@ -181,26 +182,26 @@ body {
     height: 50%;
     padding-right: 15%;
     align-items: center;
-    text-align: center;
   }
 
   .inner-header {
     padding-left: 35%;
     padding-top: 5%;
     padding-right: 15%;
-    text-align: center;
+
   }
 
   .h1-header {
     font-size: 250%;
     color: #FEE440;
     text-align: center;
+
   }
 
   .text {
     font-size: 150%;
     color: #F6E9E9;
-    text-align: center;
+  
   }
   .img-inner{
     text-align: center;
@@ -237,7 +238,7 @@ body {
     text-align: center;
     display: flex;
     float: left;
-    text-align: center;
+  
     list-style: none;
   }
 
@@ -265,26 +266,26 @@ body {
     height: 50%;
     padding-right: 15%;
     align-items: center;
-    text-align: center;
   }
 
   .inner-header {
     padding-left: 35%;
     padding-top: 5%;
     padding-right: 15%;
-    text-align: center;
+
   }
 
   .h1-header {
     font-size: 250%;
     color: #FEE440;
     text-align: center;
+
   }
 
   .text {
     font-size: 150%;
     color: #F6E9E9;
-    text-align: center;
+  
   }
   .img-inner{
     text-align: center;
@@ -321,7 +322,7 @@ body {
     text-align: center;
     display: flex;
     float: left;
-    text-align: center;
+  
     list-style: none;
   }
 
@@ -349,26 +350,26 @@ body {
     height: 50%;
     padding-right: 15%;
     align-items: center;
-    text-align: center;
   }
 
   .inner-header {
     padding-left: 35%;
     padding-top: 5%;
     padding-right: 15%;
-    text-align: center;
+
   }
 
   .h1-header {
     font-size: 250%;
     color: #FEE440;
     text-align: center;
+
   }
 
   .text {
     font-size: 150%;
     color: #F6E9E9;
-    text-align: center;
+  
   }
   .img-inner{
     text-align: center;
@@ -405,7 +406,7 @@ body {
     text-align: center;
     display: flex;
     float: left;
-    text-align: center;
+  
     list-style: none;
   }
 
